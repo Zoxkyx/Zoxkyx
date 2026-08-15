@@ -36,4 +36,4 @@ I build agentic systems, ML pipelines, and constraint-optimization tools, and I 
 
 ### 📫 Get in touch
 
-[LinkedIn](https://linkedin.com/in/artus-cescon) · artus3164@gmail.com
+[LinkedIn](https://www.linkedin.com/in/artus-cescon-62203b263/) · artus3164@gmail.com
