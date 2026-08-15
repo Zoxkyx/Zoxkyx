@@ -8,7 +8,7 @@ I build agentic systems, ML pipelines, and constraint-optimization tools, and I 
 
 ### 🚀 Featured projects
 
-**Wavestone — Agentic AI System for Data Analysis** *(confidential client project, EPITA × Wavestone)* — Final-year industry project. Prototyping an agentic system that lets business users query structured data in natural language and get an autonomous, structured analysis. Not publicly available due to client confidentiality.
+**Wavestone (Private) — Agentic AI System for Data Analysis** *(confidential client project, EPITA × Wavestone)* — Final-year industry project. Prototyping an agentic system that lets business users query structured data in natural language and get an autonomous, structured analysis. Not publicly available due to client confidentiality.
 `Python` `LLM APIs`
 
 **[HellFess](https://github.com/Tooom123/festivalMusique)** — Predictive analytics & optimization system for festival management: attendance forecasting, anomaly detection, and staff/resource allocation via linear programming, with Monte Carlo scenario testing. [Live demo](https://hellfess-navy.vercel.app/)
